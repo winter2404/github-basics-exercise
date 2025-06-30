@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sushi
 Tacos
+=======
+Inception
+The Matrix
+Interstellar
+>>>>>>> movies
